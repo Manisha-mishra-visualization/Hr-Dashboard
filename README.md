@@ -2,7 +2,7 @@
 
 A Power BI dashboard for tracking employee performance management and attrition metrics across departments, job roles, and demographics.
 
-![Dashboard Overview](docs/screenshots/overview_dashboard.png)
+overview_dashboard.png
 
 ## Overview
 
@@ -76,9 +76,7 @@ HR-PMS-Attrition-Dashboard/
 4. Update the data source path/connection if needed (Home → Transform Data → Data Source Settings).
 5. Refresh the data and explore.
 
-## License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## Data Privacy
 
