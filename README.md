@@ -2,7 +2,7 @@
 
 A Power BI dashboard for tracking employee performance management and attrition metrics across departments, job roles, and demographics.
 
-overview_dashboard.png
+[overview_dashboard.png](https://github.com/Manisha-mishra-visualization/Hr-Dashboard/blob/main/overview_dashboard.png)
 
 ## Overview
 
